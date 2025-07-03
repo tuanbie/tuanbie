@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Responsible and fast learner with strong teamwork skills<br>💡 Experienced with TypeScript, NestJS, React, TailwindCSS, RabbitMQ, and more<br>🔧 Open to opportunities in web development and backend engineering<br><br>
+👨‍💻 Responsible and fast learner with strong teamwork skills<br>💡 Experienced with TypeScript, NodeJs, NestJS and more<br>🔧 Open to opportunities in web development and backend engineering<br><br>
 
 
 ## 🌐 Socials:
